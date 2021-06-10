@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 100px auto;
+}
+
+h4 {
+font-size: 22px;
+color: rgb(54, 100, 56)
+}
+
+
+input{
+width: 260px;
+margin: 10px;
+height: 20px;
+}
+
+button{
+  border: 2px solid black;
+  width: 100px;
+  height: 30px;
+  font-size: 17px;
+  color: white;
+  background: rgb(54, 100, 56);
+}
+ 
+
+.alert {
+color: red;
+margin: 10px
+}
